@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         android:src="@drawable/andropid"
         android:scaleType="centerCrop"
-        android:contentDescription="null" />
+        android:contentDescription="@null" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline_mascot"
